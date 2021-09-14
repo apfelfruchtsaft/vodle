@@ -3,7 +3,7 @@ issue #53
 user can:
 - "new poll" on "my polls" page
 - enter metadata:
-  - type (choose one option / share some budget)
+  - type (choose one option / divide some resource)
   - "title"
   - "description"
   - "external link"
